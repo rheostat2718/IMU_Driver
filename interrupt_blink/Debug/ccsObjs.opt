@@ -1,0 +1,1 @@
+"./uartstdio.obj" "./startup_ccs.obj" "./main.obj" "./attitude.obj" "./USB.obj" "./IMU.obj" "../ECE_4335_IMU_DRIVER_ccs.cmd" "../driverlib.lib" -l"libc.a" 
